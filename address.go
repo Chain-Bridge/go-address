@@ -52,10 +52,10 @@ const (
 )
 
 // MainnetPrefix is the main network prefix.
-const MainnetPrefix = "f"
+const MainnetPrefix = "m"
 
 // TestnetPrefix is the test network prefix.
-const TestnetPrefix = "t"
+const TestnetPrefix = "l"
 
 // Protocol represents which protocol an address uses.
 type Protocol = byte
